@@ -1,0 +1,23 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "una pagina web de contenido estatico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike9739/webServer.git"
+  },
+  "author": "miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike9739/webServer/issues"
+  },
+  "homepage": "https://github.com/mike9739/webServer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
